@@ -5,7 +5,7 @@ openai==1.10
 pydantic
 
 ## formatting
-# black
+black
 
 ## example dependencies
 numpy
@@ -16,4 +16,5 @@ requests_cache==1.2.0
 retry_requests==2.0.0
 
 ## UI dependencies
-# streamlit
+streamlit
+chainlit
